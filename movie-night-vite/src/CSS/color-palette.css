@@ -1,0 +1,12 @@
+* {
+    --primary-color: #540804;
+    --secondary-color: #ea8c55;
+    --ternary-color: #81171b;
+    --alternative-color: #ad2e24;
+    --alternarive-color2: #c75146;
+}
+
+body {
+    background: linear-gradient(90deg, #ad2e24 0%, #540804 100%);
+    color: white;
+}
